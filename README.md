@@ -73,17 +73,17 @@ print(result)
     "summary": "Real-time GPS navigation &amp; local suggestions for food, events, &amp; activities",
     "installs": "10,000,000,000+",
     "minInstalls": 10000000000,
-    "maxInstalls": 16063650207,
-    "score": 3.8896015,
-    "scoreText": "3.9",
-    "ratings": 18120455,
-    "reviews": 650656,
+    "maxInstalls": 17346799843,
+    "score": 3.6164036,
+    "scoreText": "3.6",
+    "ratings": 18631588,
+    "reviews": 664596,
     "histogram": {
-      "1": 3261774,
-      "2": 1024165,
-      "3": 1165021,
-      "4": 1671260,
-      "5": 10998217
+      "1": 4783186,
+      "2": 977263,
+      "3": 1102974,
+      "4": 1508081,
+      "5": 10260068
     },
     "price": 0,
     "free": true,
@@ -99,6 +99,10 @@ print(result)
     "developerEmail": "apps-help@google.com",
     "developerWebsite": "http://maps.google.com/about/",
     "developerAddress": "1600 Amphitheatre Parkway, Mountain View 94043",
+    "developerLegalName": "Google LLC",
+    "developerLegalEmail": "support@google.com",
+    "developerLegalAddress": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, United States",
+    "developerLegalPhoneNumber": "+1 650-253-0000",
     "privacyPolicy": "http://www.google.com/policies/privacy",
     "developerInternalID": "5700313618786177705",
     "genre": "Travel & Local",
@@ -153,12 +157,10 @@ print(result)
     ],
     "contentRating": "Everyone",
     "adSupported": true,
-    "updated": 1723424058000,
+    "updated": 1739951971000,
     "version": "VARY",
     "recentChanges": "Thanks for using Google Maps! This release brings bug fixes that improve our product to help you discover new places and navigate to them.<br><br>Become a beta tester: http://goo.gl/vLUcaJ",
-    "comments": [
-      null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,
@@ -191,7 +193,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
